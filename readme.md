@@ -1,4 +1,4 @@
-#Puzzle Bobble
+# Puzzle Bobble
 
 A remake of the classic arcade game. Built using WoofJS.
 
